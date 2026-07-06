@@ -16,13 +16,14 @@ const PROJECTS = [
     image: 'https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?auto=format&fit=crop&w=1200&q=80',
     span: 'md:col-span-2 md:row-span-2',
   },
-  {
-    title: 'API Integration Dashboard',
-    desc: 'A dashboard project demonstrating full-stack API integration, data handling with JSON, and clean client-side rendering.',
-    stack: ['React', 'REST API', 'Node.js', 'Postman'],
-    image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80',
-    span: 'md:col-span-2',
-  },
+{
+  title: 'API Integration Dashboard',
+  desc: 'A full-stack dashboard integrating multiple third-party APIs through a secure Express.js backend proxy — featuring live crypto price tracking, GitHub profile search, real-time health monitoring, and interactive analytics charts.',
+  stack: ['Express.js', 'Chart.js', 'REST API', 'Node.js'],
+  image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80',
+  link: 'https://api-integeration-dashboard.vercel.app/',
+  span: 'md:col-span-2',
+},
   {
     title: 'Full Stack Feature Modules',
     desc: 'Reusable full-stack modules covering authentication flows, CRUD operations, and shared UI components.',
