@@ -21,7 +21,7 @@ const PROJECTS = [
   desc: 'A full-stack dashboard integrating multiple third-party APIs through a secure Express.js backend proxy — featuring live crypto price tracking, GitHub profile search, real-time health monitoring, and interactive analytics charts.',
   stack: ['Express.js', 'Chart.js', 'REST API', 'Node.js'],
   image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80',
-  link: 'https://api-integeration-dashboard.vercel.app/',
+  demo: 'https://api-integeration-dashboard.vercel.app/',
   span: 'md:col-span-2',
 },
   {
